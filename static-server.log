@@ -1,0 +1,4 @@
+Static server running at http://0.0.0.0:8080
+Main application is running on port 5000
+Main app URL: https://workspace.littleman222333.repl.co
+Request: /health
